@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Huge Search</title>
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+	<div class="wrapper" role="banner">
+		<input type="text" name="search">
+		<button></button>
+		<div>
+			<h1>People</h1>
+			<ul>
+				<li><span><img src="SaraSoueidan.jpg">Sara Soueidan</span></li>
+				<li><span><img src="RachelSmith.png">Rachel Smith</span></li>
+				<li><span><img src="PeterFinlan.jpg">Peter Finlan</span></li>
+				<li><span><img src="PatrickCox.png">Patrick Cox</span></li>
+				<li><span><img src="TimHolman.jpg">Tim Holman</span></li>
+				<li><span><img src="ShaunDona.jpg">Shaun Dona</span></li>
+			</ul>
+		</div>
+		<div>
+			<h2>Popular</h2>
+			<ul>
+				<li><span><img src="PagePreloadinEffect.png">Page Preloading Effect</span></li>
+				<li><span><img src="ArrowNavigationStyles.png">Arrow Navigation Styles</span></li>
+				<li><span><img src="HoverEffectIdeasNew.png">Ideas for Subtle Hover Effects</span></li>
+				<li><span><img src="FreebieHalcyonDays.png">Halcyon Days Template</span></li>
+				<li><span><img src="ArticleIntroEffects.png">Inspiration for Article Intro Effects</span></li>
+				<li><span><img src="DraggableDualViewSlideshow.png">Draggable Dual-View Slideshow</span></li>
+			</ul>
+		</div>
+		<div>
+			<h3>Recent</h3>
+			<ul>
+				<li><span><img src="TooltipStylesInspiration.png">Tooltip Styles Inspiration</span></li>
+				<li><span><img src="AnimatedHeaderBackgrounds.png">Animated Background Headers</span></li>
+				<li><span><img src="OffCanvas.png">Off-Canvas Menu Effects</span></li>
+				<li><span><img src="TabStyles.png">Tab Styles Inspiration</span></li>
+				<li><span><img src="ResponsiveSVGs.png">Make SVGs Responsive with CSS</span></li>
+				<li><span><img src="NotificationStyles.png">Notification Style Inspiration</span></li>
+			</ul>
+		</div>
+	</div>
+</body>
+</html>
